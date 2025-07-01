@@ -19,7 +19,6 @@
 - **Lenguajes:**  JavaScript, Python.
 - **Frameworks y librerías:** Node.js, Express.js, React, TailwindCSS.
 - **Bases de datos:** SQL Server, MongoDB.
-- **ORMs:** Entity Framework Core, Mongoose.
 - **Control de versiones:** Git & GitHub.
 - **Otras herramientas:** Postman, Visual Studio, Visual Studio Code.
 
