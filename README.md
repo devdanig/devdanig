@@ -1,26 +1,26 @@
 <h1 align="center">Devdani</h1>
 
 <p align="center">
-  <em>Estudiante de Software | Desarrollador Backend & Fullstack | Apasionado por la tecnología y la innovación</em>
+  <em>Estudiante de Software | Desarrollador Backend  | Apasionado por la tecnología y la innovación</em>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Frontend-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/DB-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/DB-SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=flat-square&logo=icloud&logoColor=white" />
 </p>
 
 ---
 
 ## 🛠 Tecnologías y herramientas
 
-- **Lenguajes:**  JavaScript, Python.
-- **Frameworks y librerías:** Node.js, Express.js, React, TailwindCSS.
+- **Lenguajes:**   Python, JavaScript,
+- **Frameworks y librerías:** Node.js, FASTAPI, Django
 - **Bases de datos:** SQL Server, MongoDB.
 - **Control de versiones:** Git & GitHub.
-- **Otras herramientas:** Postman, Visual Studio, Visual Studio Code.
+- **Otras herramientas:** Terraform, Postman, Visual Studio, Visual Studio Code, 
 
 ---
 
