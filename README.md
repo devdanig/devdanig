@@ -1,7 +1,7 @@
 <h1 align="center">Devdani</h1>
 
 <p align="center">
-  <em>Estudiante de Software | Desarrollador Backend  | Apasionado por la tecnología y la innovación</em>
+  <em>Software Engineering Student | Backend Developer | Passionate about Technology and Innovation</em>
 </p>
 
 <p align="center">
@@ -14,33 +14,33 @@
 
 ---
 
-## 🛠 Tecnologías y herramientas
+## 🛠 Technologies & Tools
 
-- **Lenguajes:**   Python, JavaScript,
-- **Frameworks y librerías:** Node.js, FASTAPI, Django
-- **Bases de datos:** SQL Server, MongoDB.
-- **Control de versiones:** Git & GitHub.
-- **Otras herramientas:** Terraform, Postman, Visual Studio, Visual Studio Code, 
-
----
-
-## 📌 Proyectos destacados
-
-- **Apps de gestión**: aplicaciones para estudios de tatuaje, manejo de inventario y formularios dinámicos.
-- **Plataformas web Fullstack**: sitios con React + Node.js integrados con bases de datos.
+- **Languages:** Python, JavaScript
+- **Frameworks & Libraries:** Node.js, FastAPI, Django
+- **Databases:** SQL Server, MongoDB
+- **Version Control:** Git & GitHub
+- **Other Tools:** Terraform, Postman, Visual Studio, Visual Studio Code
 
 ---
 
-## 🚀 Sobre mí
+## 📌 Featured Projects
 
-Soy un desarrollador enfocado en crear soluciones robustas y eficientes. Me encanta aprender tecnologías nuevas y construir proyectos que mejoren procesos y experiencias de usuario.
+- **Management Apps**: Applications for tattoo studio operations, inventory management, and dynamic forms.
+- **Full-Stack Web Platforms**: Websites built with React + Node.js integrated with databases.
 
 ---
 
-## 📫 Contacto
+## 🚀 About Me
 
-- 📧 **Correo:** danielgfdev@gmail.com
-- 💼 **LinkedIn:** https://www.linkedin.com/in/daniel-garcia-fonseca-8313a61a9/
+I am a developer focused on building robust and efficient solutions. I enjoy learning new technologies and developing projects that improve processes and enhance user experiences.
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** danielgfdev@gmail.com  
+- 💼 **LinkedIn:** [Daniel García Fonseca](https://www.linkedin.com/in/daniel-garcia-fonseca-8313a61a9/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tuusuario&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
