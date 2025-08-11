@@ -20,7 +20,7 @@
 - **Frameworks & Libraries:** Node.js, FastAPI, Django
 - **Databases:** SQL Server, MongoDB
 - **Version Control:** Git & GitHub
-- **Other Tools:** Terraform, Postman, Visual Studio, Visual Studio Code
+- **Other Tools:** Terraform, Postman, Azure, AWS, Digital Ocean, Linux, Devops
 
 ---
 
