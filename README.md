@@ -17,7 +17,7 @@
 ## 🛠 Technologies & Tools
 
 - **Languages:** Python, JavaScript
-- **Frameworks & Libraries:** Node.js, FastAPI, Django
+- **Frameworks & Libraries:**  FastAPI
 - **Databases:** SQL Server, MongoDB
 - **Version Control:** Git & GitHub
 - **Other Tools:** Terraform, Postman, Azure, AWS, Digital Ocean, Linux, Devops
@@ -33,7 +33,7 @@
 
 ## 🚀 About Me
 
-I am a developer focused on building robust and efficient solutions. I enjoy learning new technologies and developing projects that improve processes and enhance user experiences.
+I am a student/developer focused on building robust and efficient solutions. I enjoy learning new technologies and developing projects that improve processes and enhance user experiences.
 
 ---
 
