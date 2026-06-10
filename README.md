@@ -1,7 +1,7 @@
 <h1 align="center">Devdani</h1>
 
 <p align="center">
-  <em>Software Engineering Student | Backend Developer | Passionate about Technology and Innovation</em>
+  <em>Software Engineering Student | Backend Developer </em>
 </p>
 
 <p align="center">
